@@ -110,3 +110,9 @@ func main() {
 4. I've tested monkey on OSX 10.10.2 and Ubuntu 14.04. It should work on any unix-based x86 or x86-64 system.
 
 © Bouke van der Bijl
+
+
+https://bou.ke/blog/monkey-patching-in-go/
+
+
+
